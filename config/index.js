@@ -40,9 +40,9 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
+      name: "臭小王", 
+      id: "oFP-Z6LulZNrC3q3CwFStxGXj4yY",
+      useTemplateId: "M25SSCo23rdwStCYuGWIndYZEYfZI_0zUotmES_JnIA",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"

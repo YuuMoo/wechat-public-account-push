@@ -43,24 +43,8 @@ export const config = {
       name: "臭小王", 
       id: "oFP-Z6LulZNrC3q3CwFStxGXj4yY",
       useTemplateId: "M25SSCo23rdwStCYuGWIndYZEYfZI_0zUotmES_JnIA",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "oFP-Z6LulZNrC3q3CwFStxGXj4yY",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      province: "河南",
+      city: "焦作",
       openUrl: "https://wangxinleo.cn"
     }, 
   ],

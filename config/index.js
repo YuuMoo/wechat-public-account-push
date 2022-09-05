@@ -33,6 +33,20 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "az6KCXFylstUvpVK_E4gO9MOTJcN70Xo8jDosKKddGw",
       // 所在省份
+      province: "辽宁",
+      // 所在城市
+      city: "丹东",
+      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+      openUrl: "https://weibo.com"
+    },
+    {
+      // 想要发送的人的名字
+      name: "小于",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "oFP-Z6LTOqFECdhmx_t1CkbszC_U",
+      // 你想对他发送的模板消息的模板ID
+      useTemplateId: "az6KCXFylstUvpVK_E4gO9MOTJcN70Xo8jDosKKddGw",
+      // 所在省份
       province: "河南",
       // 所在城市
       city: "焦作",
